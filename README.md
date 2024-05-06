@@ -17,9 +17,9 @@
   ## Usage
   This will be used as a tool to quickly and easily save notes for a future reference point. 
   
-  Here is a link to the deployed application on Heroku
+  Here is a link to the deployed application on Heroku: [https://ku-texteditor-6c5fa52f538f.herokuapp.com/]
 
-  ![Screenshot](./src/assets/Screenshot.png)
+  ![Screenshot](./assets/Screenshot.png)
 
   ## License
   MIT License
